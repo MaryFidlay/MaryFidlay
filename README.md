@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi, I'm Maria Rita 💅  
+### Backend Specialist (Junior) | Full-Stack Capable | Software Engineer  
 
-<!--
-**MaryFidlay/MaryFidlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Portfolio: [Bella Nails Studio Frontend](https://bella-nails-studio.netlify.app)  
+🔗 Backend API: [Bella Nails Studio Backend](https://bella-nails-studio-backend.onrender.com)  
+💼 GitHub: [MaryFidlay](https://github.com/MaryFidlay)  
+🔗 LinkedIn: [Maria Rita](https://www.linkedin.com/in/maria-rita-/)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+**Programming Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white)  
+
+**Back-End Technologies (Primary Focus):**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/REST-API-blue) ![JWT](https://img.shields.io/badge/JWT-000000?logo=jwt&logoColor=white)  
+
+**Front-End Technologies (Secondary Focus):**  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+
+**Databases & ORM:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-0C344B?logo=prisma&logoColor=white)  
+
+**DevOps & Cloud:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?logo=openshift&logoColor=white)  
+
+**Concepts & Practices:**  
+Microservices, Serverless, OOP, Agile, Responsive Design, DOM, Full-Stack Development, Back-End Web Development, Front-End Development  
+
+**Tools & Technologies:**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
+
+---
+
+## 📂 Featured Projects
+
+### Bella Nails Studio — Full-Stack SPA
+![Frontend Screenshot](https://via.placeholder.com/600x200.png?text=Frontend+Preview)  
+![Backend Screenshot](https://via.placeholder.com/600x200.png?text=Backend+API+Preview)  
+
+**Backend Focus:**  
+- Node.js + Express API  
+- JWT Authentication & Role-Based Access  
+- MongoDB Database, Prisma ORM  
+- Secure RESTful endpoints for users and admin  
+
+**Frontend (Secondary Focus):**  
+- React SPA, responsive design  
+- User booking system integrated with backend API  
+
+**Live Demo:** [Frontend](https://bella-nails-studio.netlify.app) | [Backend API](https://bella-nails-studio-backend.onrender.com)  
+**GitHub:** [Frontend Repo](https://github.com/MaryFidlay/Bella-Nails-Studio---Frontend) | [Backend Repo](https://github.com/MaryFidlay/Bella-Nails-Backend)  
+
+---
+
+## 🔑 Career Focus
+
+- **Primary:** Backend development, building secure and scalable APIs  
+- **Secondary:** Frontend development for full-stack projects  
+- Strong emphasis on **clean code, architecture, and performance**  
+- **Entry-Level / Junior position**  
+
+---
+
+## 📫 Contact Me
+
+- Email: maria.rita@example.com  
+- LinkedIn: [Maria Rita](https://www.linkedin.com/in/maria-rita-/)  
+
+---
+
+💡 **Tips:**  
+- Substitua os placeholders das imagens por **screenshots reais do backend (Postman) e frontend UI**  
+- Mantenha o foco em **Backend**, mas destaque que você consegue entregar Frontend full-stack  
+- Badges podem ser atualizadas conforme novas tecnologias que você aprender
