@@ -1,5 +1,5 @@
 # Hi, I'm Maria Rita 💅  
-### Backend Specialist (Junior) | Full-Stack Capable | Software Engineer  
+# Backend Specialist (Junior) | Full-Stack Capable | Software Engineer  
 
 ---
 
@@ -30,7 +30,7 @@ Microservices, Serverless, OOP, Agile, Responsive Design, DOM, Full-Stack Develo
 
 ## 📂 Featured Projects
 
-# 💅 Bella Nails Studio — Full-Stack SPA
+### 💅 Bella Nails Studio — Full-Stack SPA
 
 **Frontend:** React SPA, responsive design, user booking system, admin dashboard  
 **Backend:** Node.js + Express, JWT auth, role-based access, MongoDB (Mongoose), secure RESTful API  
