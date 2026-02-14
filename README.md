@@ -1,9 +1,5 @@
-# Hi, I'm Maria Rita 💅  
+ # Hi, I'm Maria Rita 💅  
 ### Backend Specialist (Junior) | Full-Stack Capable | Software Engineer  
-
-🌐 Portfolio: [Bella Nails Studio Frontend](https://bella-nails-studio.netlify.app)  
-🔗 Backend API: [Bella Nails Studio Backend](https://bella-nails-studio-backend.onrender.com)  
-
 
 ---
 
