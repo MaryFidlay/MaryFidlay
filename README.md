@@ -30,17 +30,19 @@ Microservices, Serverless, OOP, Agile, Responsive Design, DOM, Full-Stack Develo
 
 ## 📂 Featured Projects
 
-### Bella Nails Studio — Full-Stack SPA
+# 💅 Bella Nails Studio — Full-Stack SPA
 
-**Backend:**  
-- Node.js + Express API  
-- JWT Authentication & Role-Based Access  
-- MongoDB Database, Prisma ORM  
-- Secure RESTful endpoints for users and admin  
+**Frontend:** React SPA, responsive design, user booking system, admin dashboard  
+**Backend:** Node.js + Express, JWT auth, role-based access, MongoDB (Mongoose), secure RESTful API  
+**Live Demo:** [Netlify](https://bella-nails-studio.netlify.app/)  
 
-**Frontend**  
-- React SPA, responsive design  
-- User booking system integrated with backend API  
+**Source Code:** [GitHub Frontend](https://github.com/MaryFidlay/Bella-Nails-Studio---Frontend) | [GitHub Backend](https://github.com/MaryFidlay/Bella-Nails-Studio---Backend)  
+
+**Highlights:**  
+- Real-time booking and cancellation system  
+- Admin dashboard to manage all appointments  
+- Mobile-first, fully responsive UI  
+- JWT-based authentication and role-based access
 
 ---
 
