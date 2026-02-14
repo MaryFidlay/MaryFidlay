@@ -13,10 +13,10 @@
 **Programming Languages:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white)  
 
-**Back-End Technologies (Primary Focus):**  
+**Back-End Technologies:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/REST-API-blue) ![JWT](https://img.shields.io/badge/JWT-000000?logo=jwt&logoColor=white)  
 
-**Front-End Technologies (Secondary Focus):**  
+**Front-End Technologies:**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
 
 **Databases & ORM:**  
@@ -36,18 +36,21 @@ Microservices, Serverless, OOP, Agile, Responsive Design, DOM, Full-Stack Develo
 ## 📂 Featured Projects
 
 ### Bella Nails Studio — Full-Stack SPA
-![Frontend Screenshot](https://via.placeholder.com/600x200.png?text=Frontend+Preview)  
-![Backend Screenshot](https://via.placeholder.com/600x200.png?text=Backend+API+Preview)  
 
-**Backend Focus:**  
+**Backend:**  
 - Node.js + Express API  
 - JWT Authentication & Role-Based Access  
 - MongoDB Database, Prisma ORM  
 - Secure RESTful endpoints for users and admin  
 
-**Frontend (Secondary Focus):**  
+**Frontend**  
 - React SPA, responsive design  
 - User booking system integrated with backend API  
+
+**Workflow GIFs (Placeholders):**  
+- **User Booking:** ![Booking GIF](https://media.giphy.com/media/3o7aD4RMG0a0b4XW7G/giphy.gif)  
+- **Admin Dashboard:** ![Admin GIF](https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif)  
+- **API Requests (Postman):** ![API GIF](https://media.giphy.com/media/26xBwdIuRJiAiSwJu/giphy.gif)  
 
 **Live Demo:** [Frontend](https://bella-nails-studio.netlify.app) | [Backend API](https://bella-nails-studio-backend.onrender.com)  
 **GitHub:** [Frontend Repo](https://github.com/MaryFidlay/Bella-Nails-Studio---Frontend) | [Backend Repo](https://github.com/MaryFidlay/Bella-Nails-Backend)  
@@ -65,12 +68,8 @@ Microservices, Serverless, OOP, Agile, Responsive Design, DOM, Full-Stack Develo
 
 ## 📫 Contact Me
 
-- Email: maria.rita@example.com  
+- Email: maryfidlay@gmail.com  
 - LinkedIn: [Maria Rita](https://www.linkedin.com/in/maria-rita-/)  
 
 ---
 
-💡 **Tips:**  
-- Substitua os placeholders das imagens por **screenshots reais do backend (Postman) e frontend UI**  
-- Mantenha o foco em **Backend**, mas destaque que você consegue entregar Frontend full-stack  
-- Badges podem ser atualizadas conforme novas tecnologias que você aprender
