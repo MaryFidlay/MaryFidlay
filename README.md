@@ -47,10 +47,6 @@ Microservices, Serverless, OOP, Agile, Responsive Design, DOM, Full-Stack Develo
 - React SPA, responsive design  
 - User booking system integrated with backend API  
 
-**Workflow GIFs (Placeholders):**  
-- **User Booking:** ![Booking GIF](https://media.giphy.com/media/3o7aD4RMG0a0b4XW7G/giphy.gif)  
-- **Admin Dashboard:** ![Admin GIF](https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif)  
-- **API Requests (Postman):** ![API GIF](https://media.giphy.com/media/26xBwdIuRJiAiSwJu/giphy.gif)  
 
 **Live Demo:** [Frontend](https://bella-nails-studio.netlify.app) | [Backend API](https://bella-nails-studio-backend.onrender.com)  
 **GitHub:** [Frontend Repo](https://github.com/MaryFidlay/Bella-Nails-Studio---Frontend) | [Backend Repo](https://github.com/MaryFidlay/Bella-Nails-Backend)  
