@@ -47,6 +47,6 @@ Microservices, Serverless, OOP, Agile, Responsive Design, DOM, Full-Stack Develo
 
 ## 📫 Contact Me
 
-📧 Email: mariefidlay@gmail.com 
-🔗 LinkedIn: [Maria Rita](https://www.linkedin.com/in/maria-rita-/)
-💼 GitHub: [MaryFidlay](https://github.com/MaryFidlay) 
+-📧 Email: mariefidlay@gmail.com 
+-🔗 LinkedIn: [Maria Rita](https://www.linkedin.com/in/maria-rita-/)
+-💼 GitHub: [MaryFidlay](https://github.com/MaryFidlay) 
