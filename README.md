@@ -1,7 +1,6 @@
 # Hi, I'm Maria Rita 💅  
 ## Backend Specialist (Junior) | Full-Stack Capable | Software Engineer  
 
----
 
 ## 🛠️ Technical Skills
 
