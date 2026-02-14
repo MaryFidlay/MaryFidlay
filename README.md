@@ -3,8 +3,7 @@
 
 🌐 Portfolio: [Bella Nails Studio Frontend](https://bella-nails-studio.netlify.app)  
 🔗 Backend API: [Bella Nails Studio Backend](https://bella-nails-studio-backend.onrender.com)  
-💼 GitHub: [MaryFidlay](https://github.com/MaryFidlay)  
-🔗 LinkedIn: [Maria Rita](https://www.linkedin.com/in/maria-rita-/)  
+
 
 ---
 
@@ -47,25 +46,10 @@ Microservices, Serverless, OOP, Agile, Responsive Design, DOM, Full-Stack Develo
 - React SPA, responsive design  
 - User booking system integrated with backend API  
 
-
-**Live Demo:** [Frontend](https://bella-nails-studio.netlify.app) | [Backend API](https://bella-nails-studio-backend.onrender.com)  
-**GitHub:** [Frontend Repo](https://github.com/MaryFidlay/Bella-Nails-Studio---Frontend) | [Backend Repo](https://github.com/MaryFidlay/Bella-Nails-Backend)  
-
----
-
-## 🔑 Career Focus
-
-- **Primary:** Backend development, building secure and scalable APIs  
-- **Secondary:** Frontend development for full-stack projects  
-- Strong emphasis on **clean code, architecture, and performance**  
-- **Entry-Level / Junior position**  
-
 ---
 
 ## 📫 Contact Me
 
-- Email: maryfidlay@gmail.com  
-- LinkedIn: [Maria Rita](https://www.linkedin.com/in/maria-rita-/)  
-
----
-
+📧 Email: mariefidlay@gmail.com 
+🔗 LinkedIn: [Maria Rita](https://www.linkedin.com/in/maria-rita-/)
+💼 GitHub: [MaryFidlay](https://github.com/MaryFidlay) 
