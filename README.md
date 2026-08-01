@@ -98,5 +98,7 @@ A full case study modernizing a legacy interface: usability audit → design sys
 
 ### 📫 Contact Me
 📧 **Email:** [mariefidlay@gmail.com](mailto:mariefidlay@gmail.com)
+
 🔗 **LinkedIn:** [Maria Rita](https://www.linkedin.com/in/maria-rita-/)
+
 💼 **GitHub:** [MaryFidlay](https://github.com/MaryFidlay)
