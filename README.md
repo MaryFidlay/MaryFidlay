@@ -1,6 +1,6 @@
 ### Hi, I'm Maria Rita 💅
 
-**Design Engineer** | Full-Stack Capable | Figma → React
+**Design Engineer** | Figma → React | Building design systems and full-stack web apps | UI/UX, React, Node.js
 
 I bridge design and code — from UX research and design systems in Figma to working, deployed front ends. Background in graphic design and product development, now building full-stack web applications.
 
@@ -32,7 +32,7 @@ I bridge design and code — from UX research and design systems in Figma to wor
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
----
+<hr/>
 
 ### 🎨 Design & Prototyping
 Figma · Design Systems · Component Variants · UI/UX Principles · Wireframing & Prototyping · Adobe Photoshop · Adobe Illustrator · Responsive Design
@@ -53,7 +53,7 @@ Figma · Design Systems · Component Variants · UI/UX Principles · Wireframing
 
 **Tools:** Git, GitHub, Vite
 
----
+<hr/>
 
 ### 📂 Featured Projects
 
@@ -68,7 +68,7 @@ A full case study modernizing a legacy interface: usability audit → design sys
 **Figma File:** [View design system & screens](https://www.figma.com/design/FDrl3kbxtvMLtvdLi1FGwY/Real-Product-Redesign---Rebuild?node-id=1-3&t=dHotZtUTAXFWqxht-1)
 **Source Code:** [GitHub](https://github.com/MaryFidlay/craigslist-redesign)
 
----
+<hr/>
 
 #### 💅 Bella Nails Studio — Full-Stack SPA
 - **Frontend:** React SPA, responsive design, user booking system, admin dashboard
@@ -83,7 +83,7 @@ A full case study modernizing a legacy interface: usability audit → design sys
 **Live Demo:** [Netlify](https://bella-nails-studio.netlify.app/)
 **Source Code:** [Frontend](https://github.com/MaryFidlay/Bella-Nails-Studio---Frontend) | [Backend](https://github.com/MaryFidlay/Bella-Nails-Studio---Backend)
 
----
+<hr/>
 
 #### 🍽️ Nearby — Local Restaurant Finder
 - **Frontend:** React, Redux, responsive UI, search & filtering by user preference
@@ -94,7 +94,7 @@ A full case study modernizing a legacy interface: usability audit → design sys
 **Live Demo:** [nearbycuisine.netlify.app](https://nearbycuisine.netlify.app)
 **Source Code:** Frontend | Backend
 
----
+<hr/>
 
 ### 📫 Contact Me
 📧 **Email:** [mariefidlay@gmail.com](mailto:mariefidlay@gmail.com)
