@@ -1,54 +1,62 @@
-# **Hi, I'm Maria Rita 💅**
-## Backend Specialist (Junior) | Full-Stack Capable | Software Engineer  
+Hi, I'm Maria Rita 💅
 
+Design Engineer | Full-Stack Capable | Figma → React
 
-## 🛠️ Technical Skills
+I bridge design and code — from UX research and design systems in Figma to working, deployed front ends. Background in graphic design and product development, now building full-stack web applications.
 
-**Programming Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white)  
+<p> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" /> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" /> </p> <p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </p> <p> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /> </p> <p> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> </p>
+🎨 Design & Prototyping
 
-**Back-End Technologies:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/REST-API-blue) ![JWT](https://img.shields.io/badge/JWT-000000?logo=jwt&logoColor=white)  
+Figma · Design Systems · Component Variants · UI/UX Principles · Wireframing & Prototyping · Adobe Photoshop · Adobe Illustrator · Responsive Design
 
-**Front-End Technologies:**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+🛠️ Technical Skills
 
-**Databases & ORM:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-0C344B?logo=prisma&logoColor=white)  
+Programming Languages: JavaScript, SQL
 
-**DevOps & Cloud:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?logo=openshift&logoColor=white)  
+Front-End: React.js, Redux, Angular, Vue.js, HTML5, CSS3, Tailwind CSS
 
-**Concepts & Practices:**  
-Microservices, Serverless, OOP, Agile, Responsive Design, DOM, Full-Stack Development, Back-End Web Development, Front-End Development  
+Back-End: Node.js, Express.js, REST APIs
 
-**Tools & Technologies:**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
+Databases & ORM: PostgreSQL, MongoDB, Prisma
 
----
+DevOps & Cloud: Docker, Kubernetes (basic), OpenShift (basic)
 
-## 📂 Featured Projects
+Concepts & Practices: Microservices, Serverless, OOP, Agile, DOM, Full-Stack Development
 
-### 💅 Bella Nails Studio — Full-Stack SPA
+Tools: Git, GitHub, Vite
 
-**Frontend:** React SPA, responsive design, user booking system, admin dashboard  
-**Backend:** Node.js + Express, JWT auth, role-based access, MongoDB (Mongoose), secure RESTful API  
-**Live Demo:** [Netlify](https://bella-nails-studio.netlify.app/)  
+📂 Featured Projects
+🏷️ Craigslist Homepage Redesign — UX Case Study
 
-**Source Code:** [GitHub Frontend](https://github.com/MaryFidlay/Bella-Nails-Studio---Frontend) | [GitHub Backend](https://github.com/MaryFidlay/Bella-Nails-Studio---Backend)  
+A full case study modernizing a legacy interface: usability audit → design system in Figma → React + Tailwind build, keeping the same design tokens from design to code.
 
-**Highlights:**  
-- Real-time booking and cancellation system  
-- Admin dashboard to manage all appointments  
-- Mobile-first, fully responsive UI  
-- JWT-based authentication and role-based access
+Built a reusable design system in Figma (color, type, components with variants) before touching any screen layout
+Redesigned for photo-first browsing, clearer visual hierarchy, and stronger trust signals
+Rebuilt the Figma file as a working React + Vite + Tailwind front end
 
----
+Live Demo: craigslist-redesign-pi.vercel.app Figma File: View design system & screens Source Code: GitHub
 
-## 📫 Contact Me
+💅 Bella Nails Studio — Full-Stack SPA
+Frontend: React SPA, responsive design, user booking system, admin dashboard
+Backend: Node.js + Express, JWT auth, role-based access, MongoDB (Mongoose), secure RESTful API
 
-📧 Email: mariefidlay@gmail.com 
+Highlights:
 
-🔗 LinkedIn: [Maria Rita](https://www.linkedin.com/in/maria-rita-/)
+Real-time booking and cancellation system
+Admin dashboard to manage all appointments
+Mobile-first, fully responsive UI
+JWT-based authentication and role-based access
 
-💼 GitHub: [MaryFidlay](https://github.com/MaryFidlay) 
+Live Demo: Netlify Source Code: Frontend | Backend
+
+🍽️ Nearby — Local Restaurant Finder
+Frontend: React, Redux, responsive UI, search & filtering by user preference
+Backend: Node.js, Express, PostgreSQL, Prisma, secure RESTful APIs
+Integrated Google Maps, Google Places, and Yelp APIs
+Email/Password, Google OAuth, and Apple OAuth authentication; favorite-restaurants feature
+
+Live Demo: nearbycuisine.netlify.app Source Code: Frontend | Backend
+
+📫 Contact Me
+
+📧 Email: mariefidlay@gmail.com 🔗 LinkedIn: Maria Rita 💼 GitHub: MaryFidlay
